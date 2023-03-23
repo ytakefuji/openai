@@ -1,5 +1,5 @@
 # openai
-<pi>
+<pre>
 1.API key:
 https://platform.openai.com/account/api-keys
 open account to obtain API key for OpenAI
@@ -26,4 +26,4 @@ print(res['choices'][0]['text'])
 4. $ python trans.py
 1. Quels salles avez-vous disponibles?
 2. どの部屋が利用可能ですか？
-</pi>
+</pre>
