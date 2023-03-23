@@ -1,4 +1,7 @@
 # openai
+trans.py is an example of translation from English to French and Japanese.
+The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
+
 <pre>
 1.API key:
 https://platform.openai.com/account/api-keys
