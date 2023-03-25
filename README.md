@@ -30,3 +30,5 @@ print(res['choices'][0]['text'])
 1. Quels salles avez-vous disponibles?
 2. どの部屋が利用可能ですか？
 </pre>
+# Exercises
+1. Write a program for asking a question to ChatGPT.
