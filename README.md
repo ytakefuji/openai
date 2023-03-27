@@ -31,4 +31,5 @@ print(res['choices'][0]['text'])
 2. どの部屋が利用可能ですか？
 </pre>
 # Exercises
-1. Write a program for asking a question to ChatGPT and returning the response.
+1. Write a program for asking a question and a temperature to ChatGPT and returning the response.
+The temperature is a determinant to control the randomness.
