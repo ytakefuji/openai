@@ -32,4 +32,4 @@ print(res['choices'][0]['text'])
 </pre>
 # Exercises
 1. Write a program for asking a question and a temperature to ChatGPT and returning the response.
-The temperature is a determinant to control the randomness.
+The temperature is a determinant to control the randomness. The larger the temperature, the greater the randomness.
