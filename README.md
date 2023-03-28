@@ -54,11 +54,12 @@ with ChatGPT-4.
 <img src='fig1.png' height=400 width=300>
 
 7. Click Export icon of Cookie-Editor
-<img src='fig2.png' height=400 width=400>
+<img src='fig2.png' height=300 width=300>
 This will copy the cookie to clipboard.
 
 8. Paste the clipboard to the cookies.json file.
 
+9. Run the following program.
 <pre>
 import asyncio
 from EdgeGPT import Chatbot
