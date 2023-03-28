@@ -73,6 +73,7 @@ if __name__ == "__main__":
     asyncio.run(main())
 </pre>
 
-
+# Exercise
+1. Write a program for asking a question  to EdgeGPT and returning the response.
 
 
