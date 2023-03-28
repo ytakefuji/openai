@@ -1,5 +1,5 @@
 # openai
-This will introduce two types of ChatGPT: ChatGPT-3 and EdgeGPT with ChatGPT-4.
+This will introduce two types of ChatGPT: ChatGPT-3 and EdgeGPT.
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
@@ -38,7 +38,7 @@ The temperature is a determinant from 0.0 to 1.0 to control the randomness. The 
 
 # EdgeGPT
 EdgeGPT takes advantage of the new version of Bing (Microsoft search engine)
-with ChatGPT-4.
+with EdgeGPT.
 
 1. $ pip install EdgeGPT
 
