@@ -38,7 +38,7 @@ The temperature is a determinant from 0.0 to 1.0 to control the randomness. The 
 
 # EdgeGPT
 EdgeGPT takes advantage of the new version of Bing (Microsoft search engine)
-with EdgeGPT.
+with ChatGPT.
 
 1. $ pip install EdgeGPT
 
