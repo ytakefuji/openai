@@ -46,15 +46,32 @@ with ChatGPT-4.
 
 3. Open https://bing.com/chat
 
-4. Install cookie-editor for Firefox or Chrome.
+4. Install Cookie-Editor for Firefox or Chrome.
 
 5. Access bing.com with Firefox or Chrome.
 
-6. From Extensions, click cookie-Editor
-<img src='fig1.png' height=500 width=400>
+6. From Extensions, click Cookie-Editor
+<img src='fig1.png' height=400 width=300>
 
-7. Click Export icon of cookie-editor
-<img src='fig2.png' height=500 width=500>
+7. Click Export icon of Cookie-Editor
+<img src='fig2.png' height=400 width=400>
+This will copy the cookie to clipboard.
+
+8. Paste the clipboard to the cookies.json file.
+
+<pre>
+import asyncio
+from EdgeGPT import Chatbot
+
+async def main():
+    bot = Chatbot('cookies.json')
+    print(await bot.ask("who is yoshiyasu takefuji?"))
+    await bot.close()
+
+if __name__ == "__main__":
+    asyncio.run(main())
+</pre>
+
 
 
 
