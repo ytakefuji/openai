@@ -36,6 +36,11 @@ print(res['choices'][0]['text'])
 1. Write a program for asking a question and a temperature to ChatGPT and returning the response.
 The temperature is a determinant from 0.0 to 1.0 to control the randomness. The larger the temperature, the greater the randomness.
 
+2. Write a english-to-japanese translator.
+
+3. Write a program to collect a list of peer-reviewed papers on the specific subject.
+
+
 # EdgeGPT
 EdgeGPT takes advantage of the new version of Bing (Microsoft search engine)
 with ChatGPT.
@@ -75,5 +80,9 @@ if __name__ == "__main__":
 
 # Exercise
 1. Write a program for asking a question  to EdgeGPT and returning the response.
+
+2. Write a program to collect a list of peer-reviewed papers on the specific subject.
+
+3. Compare the performance between ChatGPT and EdgeGPT about the above problem.
 
 
