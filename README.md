@@ -53,9 +53,9 @@ with ChatGPT.
 
 3. Open https://bing.com/chat
 
-4. Install Cookie-Editor for Firefox or Chrome.
+4. Install Cookie-Editor for Edge, Firefox or Chrome.
 
-5. Access bing.com with Firefox or Chrome.
+5. Access bing.com with Edge, Firefox or Chrome.
 
 6. From Extensions, click Cookie-Editor
 <img src='fig1.png' height=400 width=300>
