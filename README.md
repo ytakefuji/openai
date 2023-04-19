@@ -70,7 +70,7 @@ import asyncio
 from EdgeGPT import Chatbot
 
 async def main():
-    bot = Chatbot('cookies.json')
+    bot = Chatbot(cookie_path='cookies.json')
     print(await bot.ask("who is yoshiyasu takefuji?"))
     await bot.close()
 
