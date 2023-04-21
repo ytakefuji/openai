@@ -81,10 +81,15 @@ if __name__ == "__main__":
 </pre>
 
 # Exercise
-1. Write a program for asking a question  to EdgeGPT and returning the response.
+1. Write a program for interactively asking a question to EdgeGPT and returning the response.
 
-2. Write a program to collect a list of peer-reviewed papers on the specific subject.
+2. Feed the text of "solve: x+y=3 and 2x+y=2" to your program to show the right answer of x and y.
 
-3. Compare the performance between ChatGPT and EdgeGPT about the above problem.
+HINT: 
+If incorrect, conversation_style must be set in your program.
+
+3. Write a program to collect a list of peer-reviewed papers on the specific subject.
+
+4. Compare the performance between ChatGPT-3 and EdgeGPT about the above problem.
 
 
