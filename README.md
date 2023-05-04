@@ -130,4 +130,6 @@ if __name__ == '__main__':
 </pre>
 
 # Exercise
-1. Use Google search API with EdgeGPT.
+1. Run the above code.
+
+2. Use Google search API with EdgeGPT.
