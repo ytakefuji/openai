@@ -84,7 +84,7 @@ if __name__ == "__main__":
 </pre>
 
 # Exercise
-0. Make sure cookies editor in edge browser showing your cookies.
+0. Make sure cookie-editor in edge browser showing your cookies. To show the content of cookie-editor, you should run bing.com with edge.
 
 1. Write a program for interactively asking a question to EdgeGPT and returning the response.
 
