@@ -84,6 +84,8 @@ if __name__ == "__main__":
 </pre>
 
 # Exercise
+0. Make sure cookies editor in edge browser showing your cookies.
+
 1. Write a program for interactively asking a question to EdgeGPT and returning the response.
 
 2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program to show the right answer of x and y.
