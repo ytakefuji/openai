@@ -100,7 +100,7 @@ If incorrect, conversation_style must be set in your program.
 5. Compare the performance between ChatGPT-3 and EdgeGPT about the above problem.
 
 # Google search console API example
-1. Create your Google Cloud account to create your unique API key.
+1. Create your Google Cloud account and enable custom search to obtain your unique API key.
 https://console.cloud.google.com/cloud-resource-manager
 
 2. Enable custom search service. To obtain Google CSE ID, access to https://cse.google.com.
