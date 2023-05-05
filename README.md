@@ -134,3 +134,5 @@ if __name__ == '__main__':
 
 2. Use Google search API with EdgeGPT
 
+# Bard by Google
+Access to https://bard.google.com/
