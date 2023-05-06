@@ -132,7 +132,7 @@ if __name__ == '__main__':
 # Exercise
 1. Run the above code.
 
-2. Use Google search API with EdgeGPT
+2. Create a new application with Google search API and EdgeGPT API.
 
 # Bard by Google
 Access to https://bard.google.com/
