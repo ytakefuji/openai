@@ -147,13 +147,14 @@ Access to https://bard.google.com/
 
 # BARD from terminal command line
 
-1. Use cookie-editor to get "__Secure-1PSID".
+1. Access to https://bard.google.com/ and use cookie-editor to get "__Secure-1PSID".
 
 2. export BARD_QUICK="true"
 
-3. export BARD_SESSION= value of "__Secure-1.PSID".
+3. export BARD_SESSION= <text of "__Secure-1.PSID">
 
 4. pip install GoogleBard
 
 5. run:
+
 $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find who is yoshiyasu takefuji?"
