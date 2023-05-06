@@ -144,3 +144,16 @@ Access to https://bard.google.com/
 3. ask 'use google search with a search phrase command "yoshiyasu takefuji" and find who is yoshiyasu takefuji.'
 
 4. use the google search phrase-site-command with "yoshiyasu takefuji site:nih.gov" and show the result of publications published after 2021 with single-authored as many as possible and verify them with obtained DOIs respectively.
+
+# BARD from terminal command line
+
+1. Use cookie-editor to get "__Secure-1PSID".
+
+2. export BARD_QUICK="true"
+
+3. export BARD_SESSION= value of "__Secure-1.PSID".
+
+4. pip install GoogleBard
+
+5. run:
+$ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find who is yoshiyasu takefuji?"
