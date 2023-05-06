@@ -138,3 +138,5 @@ if __name__ == '__main__':
 Access to https://bard.google.com/
 
 1. ask Bard about 'use google search with a search phrase command "yoshiyasu takefuji" and find who is yoshiyasu takefuji.'
+
+2. use the google search phrase-site-command with "yoshiyasu takefuji site:nih.gov" and show the result of publications published after 2021 with single-authored as many as possible and verify them with obtained DOIs respectively.
