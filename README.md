@@ -136,3 +136,5 @@ if __name__ == '__main__':
 
 # Bard by Google
 Access to https://bard.google.com/
+
+1. ask to Bard about 'use google search with a search phrase command "yoshiyasu takefuji" and find who is yoshiyasu takefuji.'
