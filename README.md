@@ -155,6 +155,6 @@ Access to https://bard.google.com/
 
 4. pip install GoogleBard
 
-5. run:
+5. run the following command on terminal:
 
 $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find who is yoshiyasu takefuji?"
