@@ -147,7 +147,7 @@ Access to https://bard.google.com/
 
 # BARD from terminal command line
 
-1. Access to https://bard.google.com/ and use cookie-editor to get "__Secure-1PSID".
+1. Access to https://bard.google.com/ with Chrome and use cookie-editor to get "__Secure-1PSID".
 
 2. export BARD_QUICK="true"
 
