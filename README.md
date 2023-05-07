@@ -151,7 +151,7 @@ Access to https://bard.google.com/
 
 2. export BARD_QUICK="true"
 
-3. export BARD_SESSION= <text of "__Secure-1.PSID">
+3. export BARD_SESSION= <value of "__Secure-1.PSID">
 
 4. pip install GoogleBard
 
