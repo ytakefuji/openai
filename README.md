@@ -1,7 +1,7 @@
 # openai
 Access the following site for creating your account on ChatGPT: https://chat.openai.com/
 
-This repository will introduce two types of ChatGPT: ChatGPT-3 and EdgeGPT.
+This repository will introduce two types of ChatGPT (ChatGPT-3 and EdgeGPT) and Google Bard.
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
