@@ -169,3 +169,5 @@ Hints:
 A. Understanding text in English with ChatGPT is 85.5% while one in Japanese is 79.9%.
 
 B. You need to choose right words and phrases in dialog with AI (ChatGPT, EdgeGPT and Bard).
+
+C. Multiple conversations may be necessary.
