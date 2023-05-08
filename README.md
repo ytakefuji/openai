@@ -164,6 +164,8 @@ $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find wh
 in Python for Chrome on your operating system to show all information of cookies and extract 
 the value of "__Secure-1.PSID".
 
+2. Compare their performance.
+
 Hints: 
 
 A. Understanding text in English with ChatGPT is 85.5% while one in Japanese is 79.9%.
