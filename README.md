@@ -160,5 +160,6 @@ Access to https://bard.google.com/
 $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find who is yoshiyasu takefuji?"
 
 # Exercises
-1. Interacting with ChatGPT, EdgeGPT and Bard makes a cookie editor in Python for Chrome
-on your OS to show all information of cookies and extract the value of "__Secure-1.PSID".
+1. Interacting with ChatGPT, EdgeGPT and Bard respectively makes a cookie editor 
+in Python for Chrome on your operating system to show all information of cookies and extract 
+the value of "__Secure-1.PSID".
