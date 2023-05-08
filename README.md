@@ -163,3 +163,8 @@ $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find wh
 1. Interacting with ChatGPT, EdgeGPT and Bard respectively makes a cookie editor 
 in Python for Chrome on your operating system to show all information of cookies and extract 
 the value of "__Secure-1.PSID".
+
+Hints: 
+A. Understanding text in English with ChatGPT is 85.5% while one in Japanese is 79.9%.
+
+B. You need to choose right words and phrases in dialog with AI (ChatGPT, EdgeGPT and Bard).
