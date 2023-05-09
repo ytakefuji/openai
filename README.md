@@ -173,7 +173,7 @@ the value of "__Secure-1.PSID".
 
 2. Compare their performance.
 
-3. Make an exciting application in Python with interacting with AI such as ChatGPT, EdgeGPT or Bard.
+3. Make an exciting application in Python with interacting online dialog AI such as ChatGPT, EdgeGPT or Bard.
 
 Hints: 
 
