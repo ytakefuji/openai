@@ -14,7 +14,6 @@ https://bing.com/chat
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
 
-There are two crypted files: ask.crypted and edge.crypted. In order to decrypt, see the following site: https://github.com/ytakefuji/bash-shell
 
 <pre>
 1.API key:
