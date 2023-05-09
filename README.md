@@ -1,5 +1,5 @@
 # openai
-There are two types of dialog AI systems: online interactive dialog AI via browser and online terminal command AI in batch style. To use online terminal command AI, their settings are required respectively.
+There are two types of dialog AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
 
 This repository will introduce three types of dialog AI: ChatGPT-3 with Openai, EdgeGPT with Microsoft and Google Bard. 
 
@@ -12,7 +12,7 @@ Bard with any browser: https://bard.google.com/
 Bing with Edge browser: https://bing.com/chat
 
 
-# Online teriminal command AI with ChatGPT
+# Teriminal command AI with ChatGPT
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
