@@ -1,7 +1,15 @@
 # openai
-Access the following site for creating your account on ChatGPT: https://chat.openai.com/
+There are two types of dialog AI systems: interactive dialog AI and AI in batch style.
 
-This repository will introduce two types of ChatGPT (ChatGPT-3 and EdgeGPT) and Google Bard.
+This repository will introduce three types of AI: ChatGPT (ChatGPT-3 and EdgeGPT) and Google Bard.
+
+The following links are online interactive dialog AI systems:
+
+https://chat.openai.com/
+
+https://bard.google.com/
+
+https://bing.com/chat
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
