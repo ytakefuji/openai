@@ -3,13 +3,13 @@ There are two types of dialog AI systems: online interactive dialog AI via brows
 
 This repository will introduce three types of AI: ChatGPT-3 with Openai, EdgeGPT with Microsoft and Google Bard. 
 
-The following links are online interactive dialog AI systems via Browser:
+The following links are online interactive dialog AI systems via browser:
 
-https://chat.openai.com/
+ChatGPT with any browser: https://chat.openai.com/
 
-https://bard.google.com/
+Bard with any browser: https://bard.google.com/
 
-https://bing.com/chat
+Bing with Edge browser: https://bing.com/chat
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
