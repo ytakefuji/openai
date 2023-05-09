@@ -166,6 +166,8 @@ the value of "__Secure-1.PSID".
 
 2. Compare their performance.
 
+
+
 Hints: 
 
 A. Understanding text in English with ChatGPT is 85.5% while one in Japanese is 79.9%.
