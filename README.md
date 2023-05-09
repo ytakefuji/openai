@@ -42,11 +42,12 @@ print(res['choices'][0]['text'])
 4. $ python trans.py
 1. Quels salles avez-vous disponibles?
 2. どの部屋が利用可能ですか？
+
 </pre>
 # Exercises
 1. Write a program for interactively asking a question and a temperature to ChatGPT and returning the response.
 
-The temperature is a determinant of randomness from 0.0 to 1.0 to control the randomness. The larger the temperature, the greater the randomness.
+Hint: The temperature is a determinant of randomness from 0.0 to 1.0 to control the randomness. The larger the temperature, the greater the randomness.
 
 2. Write a english-to-japanese translator.
 
