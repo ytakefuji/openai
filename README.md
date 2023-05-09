@@ -15,9 +15,16 @@ Bing with Edge browser: https://bing.com/chat
 
 1. Use all 26 letters of the alphabet once and only once to make a human understandable sentence.
 
-Answer from AI: The quick brown fox jumps over a lazy dog.
+Answer from AI:
 
-Answer from AI: Sphinx of black quartz, judge my vow.
+The quick brown fox jumps over a lazy dog.
+
+Sphinx of black quartz, judge my vow.
+
+Pack my box with five dozen liquor jugs.
+
+The five boxing wizards jump quickly.
+
 
 # Teriminal command AI with ChatGPT
 
