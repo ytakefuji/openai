@@ -3,7 +3,7 @@ There are two types of dialog AI systems: online interactive dialog AI via brows
 
 This repository will introduce three types of AI: ChatGPT-3 with Openai, EdgeGPT with Microsoft and Google Bard. 
 
-The following links are online interactive dialog AI systems:
+The following links are online interactive dialog AI systems via Browser:
 
 https://chat.openai.com/
 
