@@ -1,7 +1,7 @@
 # openai
 There are two types of dialog AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
 
-This repository will introduce three types of dialog AI: ChatGPT-3 with Openai, EdgeGPT with Microsoft and Google Bard. 
+This repository will introduce three types of dialog AI systems: ChatGPT-3 with Openai, EdgeGPT with Microsoft and Google Bard. 
 
 The following links are online interactive dialog AI systems via browser:
 
