@@ -11,10 +11,13 @@ Bard with any browser: https://bard.google.com/
 
 Bing with Edge browser: https://bing.com/chat
 
+<EXAMPLE>
 
-Example: use all 26 letters of the alphabet once and only once to make a human understandable sentence.
+1. Use all 26 letters of the alphabet once and only once to make a human understandable sentence.
 
 Answer from AI: The quick brown fox jumps over a lazy dog.
+
+Answer from AI: Sphinx of black quartz, judge my vow.
 
 # Teriminal command AI with ChatGPT
 
