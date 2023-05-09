@@ -11,9 +11,11 @@ Bard with any browser: https://bard.google.com/
 
 Bing with Edge browser: https://bing.com/chat
 
+
+# Online teriminal command AI with ChatGPT
+
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
-
 
 <pre>
 1.API key:
@@ -44,6 +46,7 @@ print(res['choices'][0]['text'])
 2. どの部屋が利用可能ですか？
 
 </pre>
+
 # Exercises
 1. Write a program for interactively asking a question and a temperature to ChatGPT and returning the response.
 
@@ -99,11 +102,11 @@ if __name__ == "__main__":
 2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program to show the right answer of x and y.
 
 HINT: 
-If incorrect, conversation_style must be set in your program.
+If you have incorrect results, conversation_style must be set in your program.
 
-3. Give the text "show email for yoshiyasu takefuji" to show the right email address.
+3. Give the following text "show email for yoshiyasu takefuji" to show the right email address.
 
-4. Write a program to collect a list of peer-reviewed papers on the specific subject.
+4. Write a program in Python to collect a list of peer-reviewed papers on the specific subject.
 
 5. Compare the performance between ChatGPT-3 and EdgeGPT about the above problem.
 
@@ -153,7 +156,7 @@ Access to https://bard.google.com/
 
 4. use the google search phrase-site-command with "yoshiyasu takefuji site:nih.gov" and show the result of publications published after 2021 with single-authored as many as possible and verify them with obtained DOIs respectively.
 
-# BARD from terminal command line
+# BARD from terminal line command
 
 1. Access to https://bard.google.com/ with Chrome and use cookie-editor to get "__Secure-1PSID".
 
