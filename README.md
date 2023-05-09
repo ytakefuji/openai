@@ -12,7 +12,7 @@ Bard with any browser: https://bard.google.com/
 Bing with Edge browser: https://bing.com/chat
 
 
-Example: use all 26 letters of the alphabet once and only once to make a human understandable sensence.
+Example: use all 26 letters of the alphabet once and only once to make a human understandable sentence.
 
 Answer from AI: The quick brown fox jumps over a lazy dog.
 
