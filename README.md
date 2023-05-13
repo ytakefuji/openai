@@ -43,7 +43,8 @@ Source: Conversation with Bing, 2023/5/13
 Answer from AI:
 I’m sorry, but I couldn’t find any specific information about publications by Yoshiyasu Takefuji in 2023. Would you like to know about his publications from another year or more general information about his work?
 
-4. Query to AI: show a list of publications by yoshiyasu takefuji in 2023 with google query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
+4. Query to AI: show a list of publications by yoshiyasu takefuji in 2023 
+   with google query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
 
 Answer from AI:
 hiscovid for visualizing and identifying when policymakers made mistakes against COVID-19
