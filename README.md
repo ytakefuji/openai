@@ -72,7 +72,7 @@ This paper reviews the literature on hikikomori, a Japanese term for a condition
 
 1. Use all 26 letters of the alphabet once and only once to make a meaningful sentence.
 
-Answer from AI:
+Answer from AI should be:
 
 The quick brown fox jumps over a lazy dog.
 
