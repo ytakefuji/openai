@@ -13,7 +13,7 @@ Bing with Edge browser using ChatGPT-4: https://bing.com/chat
 
 https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
 
-# Simple examples
+# Simple examples via browser
 
 1. Query to AI: show a code in Python to display a graph with data.csv 
    composed of x and y determinants.
