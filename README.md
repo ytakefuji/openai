@@ -54,11 +54,11 @@ doi: 10.1016/j.simpa.2023.100466
 
 Review of hikikomori: A global health issue, identification and treatment
 doi: 10.1016/j.ajp.2023.103596
-
-Query to AI: summarize them.
-
-Answer from AI:
 </pre>
+5. Query to AI: summarize them.
+<pre>
+Answer from AI:
+
 hiscovid for visualizing and identifying when policymakers made mistakes against COVID-19
 
 This paper presents a new tool called hiscovid that can be used to visualize and identify when policymakers made mistakes against COVID-19. hiscovid uses a time-series policy outcome scoring tool to evaluate the outcomes of COVID-19 policies by country. The daily cumulative population mortality is used for scoring the outcomes of COVID-19 country policies. hiscovid allows policymakers to observe the progress and transition of scores over time to learn lessons from the past decision-making mistakes for correcting the current policies to reduce unnecessary deaths.
@@ -66,7 +66,7 @@ This paper presents a new tool called hiscovid that can be used to visualize and
 Review of hikikomori: A global health issue, identification and treatment
 
 This paper reviews the literature on hikikomori, a Japanese term for a condition in which people withdraw from social contact and isolate themselves in their homes for extended periods of time. Hikikomori is a global health issue, with an estimated 1.5 million people in the United States and 1.2 million people in Europe affected by the condition. The paper discusses the identification and treatment of hikikomori, and provides recommendations for future research.
-
+</pre>
 
 # Challenging EXAMPLE
 
