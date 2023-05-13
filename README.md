@@ -42,7 +42,6 @@ Source: Conversation with Bing, 2023/5/13
 </pre>
 
 Hint:
-
 If AI does not respose to your query, add an extra word such as professor or dr. In other words, ask "who is Professor yoshiyasu takefuji?" 
 
 3. Query to AI: show a list of publications by yoshiyasu takefuji in 2023.
