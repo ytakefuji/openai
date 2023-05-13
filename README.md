@@ -119,7 +119,7 @@ print(res['choices'][0]['text'])
 </pre>
 
 # Exercises
-1. Write a program for interactively asking a question and a temperature to ChatGPT and returning the response.
+1. Write a program (ask.py) for interactively asking a question and a temperature to ChatGPT and returning the response.
 
 Hint: The temperature is a determinant of randomness from 0.0 to 1.0 to control the randomness. The larger the temperature, the greater the randomness.
 
@@ -168,7 +168,7 @@ if __name__ == "__main__":
 # Exercise
 0. Make sure cookie-editor in edge browser showing your cookies, not empty. To show the content of cookie-editor, after logging into your Microsoft account at the Edge, you will need to access bing.com.
 
-1. Write a program for interactively asking a question to EdgeGPT and returning the response.
+1. Write a program (edge.py) for interactively asking a question to EdgeGPT and returning the response.
 
 2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program to show the right answer of x and y.
 
@@ -242,7 +242,7 @@ Access to https://bard.google.com/
 $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find who is yoshiyasu takefuji?"
 
 # Exercises
-1. Interacting with ChatGPT, EdgeGPT and Bard respectively makes a cookie editor 
+1. Interacting with ChatGPT, Bing.com or EdgeGPT, and Bard respectively makes a cookie editor 
 in Python for Chrome on your operating system to show all information of cookies and extract 
 the value of "__Secure-1.PSID".
 
