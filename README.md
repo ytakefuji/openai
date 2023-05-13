@@ -248,7 +248,7 @@ the value of "__Secure-1.PSID".
 
 2. Compare their performance.
 
-3. Make an exciting application in Python with interacting online dialog AI such as ChatGPT, EdgeGPT or Bard. All conversations with the AI should be noted and the conversations will be used in the comments of the generated program.
+3. Make an exciting application in Python with interacting online dialog AI such as ChatGPT, EdgeGPT or Bard. All conversations with the AI should be noted and the conversations will be included in the comments before the generated program.
 
 Hints: 
 
