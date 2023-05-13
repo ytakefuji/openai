@@ -13,7 +13,62 @@ Bing with Edge browser using ChatGPT-4: https://bing.com/chat
 
 https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
 
-# EXAMPLE
+# Simple examples
+<pre>
+1. Query to AI: show a code in Python to display a graph with data.csv composed of x and y determinants.
+
+Answer from AI:
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_csv('data.csv')
+x = data['x']
+y = data['y']
+
+plt.plot(x, y)
+plt.show()
+
+2. Query to AI: who is yoshiyasu takefuji?
+
+Answer from AI:
+Yoshiyasu Takefuji is a professor at **Musashino University** in the **Data Science** department². He has a Ph.D. and his research interests include cyber-security, machine learning, neural computing, energy harvesting, IoT, automated reasoning, and applied AI². He has developed AI prototypes that outperform super-skilled humans in civil engineering and construction, marketing, skin cancers, and many other areas². Is there anything else you would like to know about him?
+
+Source: Conversation with Bing, 2023/5/13
+(1) Yoshiyasu TAKEFUJI | Professor | Ph.D. Professor .... https://www.researchgate.net/profile/Yoshiyasu-Takefuji.
+(2) 武藤 佳恭 (Takefuji Yoshiyasu) - マイポータル - researchmap. https://researchmap.jp/ytakefuji.
+(3) ytakefuji (Yoshiyasu Takefuji) · GitHub. https://github.com/ytakefuji.
+
+3. Query to AI: show a list of publications by yoshiyasu takefuji in 2023.
+
+Answer from AI:
+I’m sorry, but I couldn’t find any specific information about publications by Yoshiyasu Takefuji in 2023. Would you like to know about his publications from another year or more general information about his work?
+
+4. Query to AI: show a list of publications by yoshiyasu takefuji in 2023 with google query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
+
+Answer from AI:
+hiscovid for visualizing and identifying when policymakers made mistakes against COVID-19
+doi: 10.1016/j.simpa.2023.100466
+
+Review of hikikomori: A global health issue, identification and treatment
+doi: 10.1016/j.ajp.2023.103596
+
+Query to AI: summarize them.
+
+Answer from AI:
+:
+
+hiscovid for visualizing and identifying when policymakers made mistakes against COVID-19
+
+This paper presents a new tool called hiscovid that can be used to visualize and identify when policymakers made mistakes against COVID-19. hiscovid uses a time-series policy outcome scoring tool to evaluate the outcomes of COVID-19 policies by country. The daily cumulative population mortality is used for scoring the outcomes of COVID-19 country policies. hiscovid allows policymakers to observe the progress and transition of scores over time to learn lessons from the past decision-making mistakes for correcting the current policies to reduce unnecessary deaths.
+
+Review of hikikomori: A global health issue, identification and treatment
+
+This paper reviews the literature on hikikomori, a Japanese term for a condition in which people withdraw from social contact and isolate themselves in their homes for extended periods of time. Hikikomori is a global health issue, with an estimated 1.5 million people in the United States and 1.2 million people in Europe affected by the condition. The paper discusses the identification and treatment of hikikomori, and provides recommendations for future research.
+
+</pre>
+
+
+# Challenging EXAMPLE
 
 1. Use all 26 letters of the alphabet once and only once to make a meaningful sentence.
 
