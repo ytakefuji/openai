@@ -15,7 +15,8 @@ https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E
 
 # Simple examples
 <pre>
-1. Query to AI: show a code in Python to display a graph with data.csv composed of x and y determinants.
+1. Query to AI: show a code in Python to display a graph with data.csv 
+   composed of x and y determinants.
 
 Answer from AI:
 import pandas as pd
@@ -56,7 +57,6 @@ doi: 10.1016/j.ajp.2023.103596
 Query to AI: summarize them.
 
 Answer from AI:
-:
 
 hiscovid for visualizing and identifying when policymakers made mistakes against COVID-19
 
