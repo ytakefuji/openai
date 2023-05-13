@@ -5,11 +5,11 @@ This repository will introduce three types of dialog AI systems: ChatGPT-3 with 
 
 The following links are online interactive dialog AI systems via browser for free of charge:
 
-ChatGPT-3 with any browser: https://chat.openai.com/
+ChatGPT-3 via h any browser: https://chat.openai.com/
 
-Bard with any browser: https://bard.google.com/
+Bard via any browser: https://bard.google.com/
 
-Bing with Edge browser using ChatGPT-4: https://bing.com/chat
+Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
 
 
 
