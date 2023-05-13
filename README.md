@@ -131,7 +131,7 @@ Hint: The temperature is a determinant of randomness from 0.0 to 1.0 to control 
 3. Write a program to collect a list of peer-reviewed papers on the specific subject.
 
 
-# EdgeGPT
+# EdgeGPT from terminal command
 EdgeGPT takes advantage of the new version of Bing (Microsoft search engine)
 with ChatGPT-4.0.
 
@@ -219,7 +219,7 @@ if __name__ == '__main__':
 
 2. Create a new application with combining Google search API and EdgeGPT API.
 
-# Bard by Google
+# Bard by Google via browser
 Access to https://bard.google.com/
 
 1. ask "who is yoshiyasu takefuji with a google search command "yoshiyasu takefuji".
