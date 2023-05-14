@@ -83,7 +83,7 @@ Read the dataset csv file and divide the range of ages in "Age" determinant to m
 Hint:
 Values of "Age" is from 40 to 74. Values of "HbA1c" is from 3.5 to 12.9. https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height
 
-<img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
+<img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=480 width=640>
 
 # Challenging EXAMPLE
 
