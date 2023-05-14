@@ -77,7 +77,7 @@ Maw, Su Su; Haga, Chiyori (2018), “Dataset for lifestyle behaviors and HbA1c s
 
 https://data.mendeley.com/datasets/g7gzwd4c7h
 
-ask AI to create and save a graph of "HbA1c" vs "Age".
+ask AI to create and save a graph of "HbA1c" vs "Age" with the dataset.
 
 Read the dataset csv file and divide the range of ages in "Age" determinant to multiple groups and calculate the average of "HbA1c" values in each age group. Plot the average HbA1c of each age group with the size of group members. The average number of HbA1c of each age group should be scattered in the graph.
 
