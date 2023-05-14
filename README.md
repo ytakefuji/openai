@@ -88,7 +88,7 @@ Values of "Age" is from 40 to 74. Values of "HbA1c" is from 3.5 to 12.9.
 
 # Challenging EXAMPLE
 
-1. This is called a pangram generator. Use all 26 lower letters of the alphabet once and only once to make a meaningful sentence.
+1. This is called a pangram generator. Use all 26 lower letters of the alphabet once and only once to make a meaningful sentence. This is a difficult problem!
 
 Answer from AI should be:
 
