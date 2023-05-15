@@ -85,6 +85,8 @@ The diameter of the circle should be proportional to the number of group members
 Hint:
 The range of "Age" values is from 40 to 74. The range of "HbA1c" values is from 3.5 to 12.9. 
 
+The following diagram is produced by the AI-created program in Python.
+
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
 # Challenging EXAMPLE
