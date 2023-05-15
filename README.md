@@ -91,7 +91,7 @@ The following diagram is produced by the AI-created program in Python.
 
 # Challenging EXAMPLE
 
-1. This is called a pangram generator. Use all 26 lower letters of the alphabet once and only once to make a meaningful sentence. This is a difficult problem!
+1. This is called a pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
 
 Answer from AI should be:
 
