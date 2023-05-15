@@ -82,7 +82,7 @@ ask AI to create and save a graph of "HbA1c" vs "Age" with the dataset.
 Read the dataset csv file and divide the range of ages in "Age" determinant to multiple age groups and calculate the average of "HbA1c" values in each age group. Plot the average HbA1c of each age group with the size of group members. The average number of HbA1c of each age group should be scattered in the graph with x-axis as age and y-axis as HbA1c.
 
 Hint:
-Values of "Age" is from 40 to 74. Values of "HbA1c" is from 3.5 to 12.9. 
+The range of "Age" values is from 40 to 74. The range of "HbA1c" values is from 3.5 to 12.9. 
 
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
