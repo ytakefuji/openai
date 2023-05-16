@@ -142,34 +142,35 @@ print(res['choices'][0]['text'])
 </pre>
 
 # Exercises
-1. Write a program (ask.py) for interactively asking a question and a temperature to ChatGPT and returning the response.
+1. Interacting with ChatGPT generates a program (ask.py) in Python for interactively asking user's question and the temperature setting with ChatGPT and returning the response.
 
 Hint: The temperature is a determinant of randomness from 0.0 to 1.0 to control the randomness. The larger the temperature, the greater the randomness.
 
-2. Write a english-to-japanese translator.
+2. Create a english-to-japanese translator in Python by ChatGPT.
 
-3. Write a program to collect a list of peer-reviewed papers on the specific subject.
+3. Create a program to collect a list of peer-reviewed papers on the specific subject given from a user.
 
 
 # EdgeGPT from terminal command
 EdgeGPT takes advantage of the new version of Bing (Microsoft search engine)
-with ChatGPT-4.0.
+with ChatGPT-4.0. The installation of EdgeGPT is detailed as follows.
 
 1. $ pip install EdgeGPT
 
 2. Install the latest Edge browser.
 
-3. Open https://bing.com/chat
+3. With Edge, open https://bing.com/chat site.
 
-4. Install Cookie-Editor for Edge, Firefox or Chrome.
+4. Install Cookie-Editor for Edge.
 
-5. Access bing.com with Edge, Firefox or Chrome.
+5. Make sure accessing bing.com with Edge.
 
 6. From Extensions, click Cookie-Editor
 <img src='fig1.png' height=400 width=300>
 
 7. Click Export icon of Cookie-Editor
 <img src='fig2.png' height=300 width=300>
+
 This will copy the cookie to clipboard.
 
 8. Paste the clipboard to the cookies.json file.
@@ -193,7 +194,7 @@ if __name__ == "__main__":
 
 1. Write a program (edge.py) for interactively asking a question to EdgeGPT and returning the response.
 
-2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program to show the right answer of x and y.
+2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program until the answer shows the right answer of x and y.
 
 HINT: 
 If you have incorrect results, conversation_style must be set in your program.
@@ -205,6 +206,8 @@ If you have incorrect results, conversation_style must be set in your program.
 5. Compare the performance between ChatGPT-3 and EdgeGPT about the above problem.
 
 # Google search console API example
+The Google search capability for the latest information can be used with AIs to strengthen the wiser system.
+
 1. Create your Google Cloud account and enable custom search to obtain your unique API key.
 https://console.cloud.google.com/cloud-resource-manager
 
@@ -249,6 +252,8 @@ Access to https://bard.google.com/
 3. ask 'use google search with a search phrase command "yoshiyasu takefuji" and find who is yoshiyasu takefuji.'
 
 4. use the google search phrase-site-command with "yoshiyasu takefuji site:nih.gov" and show the result of publications published after 2021 with single-authored as many as possible and verify them with obtained DOIs respectively.
+
+5. make a new interesting application with Bard.
 
 # BARD from terminal line command
 
