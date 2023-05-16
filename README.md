@@ -11,8 +11,9 @@ Bard via any browser: https://bard.google.com/
 
 Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
 
-<p>
+<b>
 You need to practice interacting with the AI to accomplish the required tasks. Practice makes perfect.
+</b>
 
 # Simple examples via browser
 
