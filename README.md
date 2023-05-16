@@ -1,5 +1,5 @@
 # openai
-This is for classes on how to use generative AI systems for Data Science at Musashino University in Japan.
+This is for classes on how to use regenerative AI systems for Data Science at Musashino University in Japan.
 
 There are two types of dialog regenerative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
 
