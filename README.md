@@ -107,7 +107,7 @@ Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
 
-2. Design a 3-input 3-output logic circuit that negates the 3 signals. You have an infinite supply of AND and OR gates but only two NOT gates.
+2. Design a 3-input 3-output logic circuit that negates the 3 input signals. You have an infinite supply of AND and OR gates but only two NOT gates.
 <pre>
 Input	Output
 000	111
