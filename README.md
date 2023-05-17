@@ -107,7 +107,7 @@ Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
 
-2. Design a 3-input 3-output logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
+2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
 
 <pre>
 Input	Output
