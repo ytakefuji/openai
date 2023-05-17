@@ -93,7 +93,7 @@ The following diagram is produced by the AI-created program in Python.
 
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
-# Challenging EXAMPLE
+# Challenging EXAMPLES
 
 1. This is called a pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
 
@@ -106,6 +106,8 @@ Sphinx of black quartz, judge my vow.
 Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
+
+2. Design a 3-input 3-output logic circuit that negates the 3 signals. You have an infinite supply of AND and OR gates but only two NOT gates.
 
 
 # Teriminal command AI with ChatGPT
