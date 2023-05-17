@@ -108,7 +108,17 @@ Pack my box with five dozen liquor jugs.
 The five boxing wizards jump quickly.
 
 2. Design a 3-input 3-output logic circuit that negates the 3 signals. You have an infinite supply of AND and OR gates but only two NOT gates.
-
+<pre>
+Input	Output
+000	111
+001	110
+010	101
+011	100
+100	011
+101	010
+110	001
+111	000
+</pre>
 
 # Teriminal command AI with ChatGPT
 
