@@ -290,7 +290,7 @@ $ python -m Bard "use google phrase search with 'yoshiyasu takefuji' and find wh
 # Exercises
 1. Interacting with ChatGPT, Bing.com or EdgeGPT, and Bard respectively makes a cookie editor 
 in Python for Chrome on your operating system to show all information of cookies and extract 
-the value of "__Secure-1.PSID".
+the value of "__Secure-1PSID".
 
 2. Compare their performance.
 
