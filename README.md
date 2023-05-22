@@ -212,7 +212,7 @@ if __name__ == "__main__":
 
 1. Write a program (edge.py) for interactively asking a question to EdgeGPT and returning the response.
 
-2. Give the text of "solve x+y=3 and 2x+y=2, and verify it" to your program until the answer shows the right answer of x and y.
+2. Give the text of "solve x +  y = 3 and 2 x + y = 2, and verify it" to your program until the answer shows the right answer of x and y.
 
 HINT: 
 If you have incorrect results, conversation_style must be set in your program.
