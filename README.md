@@ -99,13 +99,14 @@ The following diagram is produced by the AI-created program in Python.
 
 Answer from AI should be:
 
-The quick brown fox jumps over a lazy dog.
-
 Sphinx of black quartz, judge my vow.
 
 Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
+
+The quick brown fox jumps over a lazy dog.
+
 
 2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
 
