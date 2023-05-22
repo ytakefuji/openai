@@ -105,7 +105,7 @@ Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
 
-The quick brown fox jumps over a lazy dog.
+The quick brown fox jumps over lazy dog.
 
 
 2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
@@ -279,7 +279,7 @@ Access to https://bard.google.com/
 
 2. export BARD_QUICK="true"
 
-3. export BARD_SESSION= <value of "__Secure-1.PSID">
+3. export BARD_SESSION= <value of "__Secure-1PSID">
 
 4. pip install GoogleBard
 
