@@ -294,7 +294,7 @@ the value of "__Secure-1.PSID".
 
 2. Compare their performance.
 
-3. Solve x + y =3 and 2 x + y =2.
+3. Solve it: x + y = 3 and 2 x + y = 2.
 
 4. Make an exciting application in Python with interacting online dialog AI such as ChatGPT, bing.com or EdgeGPT, or Bard. All conversations with the AI should be noted and the conversations will be included in the comments before the generated program.
 
