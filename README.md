@@ -77,7 +77,7 @@ Review of hikikomori: A global health issue, identification and treatment
 This paper reviews the literature on hikikomori, a Japanese term for a condition in which people withdraw from social contact and isolate themselves in their homes for extended periods of time. Hikikomori is a global health issue, with an estimated 1.5 million people in the United States and 1.2 million people in Europe affected by the condition. The paper discusses the identification and treatment of hikikomori, and provides recommendations for future research.
 </pre>
 
-6. Draw a graph of age groups with the average HbA1c of each group.
+6. Draw a graph of age group circles with the average HbA1c of each group with a dataset.
 
 Download the dataset from the following site:
 
