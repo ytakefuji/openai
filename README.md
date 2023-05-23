@@ -96,12 +96,12 @@ The following diagram is produced by the AI-created program in Python.
 
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
-7. Make a code in Python to visualize military spending of up to 5 countries from 2000 to 2020.
-
+7. Make a code in Python to visualize military spending of up to 5 countries from 2000 to 2020
+   with the following xlsx file.
 
 https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2022.xlsx
 
-Hint: explain to AI on how to extract the important data from the xlsx file to visualize time-series data of countries.
+Hint: explain to AI on how to extract the important data from the xlsx file to visualize time-series data of up to 5 countries.
 
 
 # Challenging EXAMPLES
