@@ -86,7 +86,7 @@ https://data.mendeley.com/datasets/g7gzwd4c7h
 Reference: Maw, Su Su; Haga, Chiyori (2018), “Dataset for lifestyle behaviors and HbA1c status from 2012 to 2014 of Japanese middle aged and elder people”, Mendeley Data, V1, doi: 10.17632/g7gzwd4c7h.1
 
 
-ask AI to create and save a graph of "HbA1c" vs "Age" with the downloaded dataset: data.csv. Calculate the average HbA1c for each age group and draw a circle for each age group. The center point of the circle indicates the average of HbA1c, and the size of the circle is the number of participants in the age group.
+ask AI to show a code in Python to create and save a graph of "HbA1c" vs "Age" with the downloaded dataset: data.csv. Calculate the average HbA1c for each age group and draw a circle for each age group. The center point of the circle indicates the average of HbA1c, and the size of the circle is the number of participants in the age group.
 
 
 Hint:
