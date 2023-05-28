@@ -103,6 +103,8 @@ https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2022.xlsx
 
 Hint: explain to AI on how to extract the important data from the xlsx file to visualize time-series data of up to 4 countries.
 
+8. Solve it using real numbers and complex numbers respectively: x - 2y = 0 and x^2 - y^2 = -3.
+
 
 # Challenging EXAMPLES
 
