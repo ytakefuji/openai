@@ -105,6 +105,14 @@ Hint: explain to AI on how to extract the important data from the xlsx file to v
 
 8. Solve it using real numbers and complex numbers respectively: x - 2y = 0 and x^2 - y^2 = -3.
 
+9. Draw a US-state map with red Oregon, blue California, green Florida, yellow New York and lightgray others.
+
+Hint: use geopandas.
+
+10. Draw a Japan-prefecture map with green Hokkaido, blue Iwate, red Tokyo, yellow Kagoshima and lightgray others.
+
+Hint: use geopandas and find a Japan prefecture map.
+
 
 # Challenging EXAMPLES
 
