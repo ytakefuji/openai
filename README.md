@@ -97,7 +97,7 @@ The following diagram is produced by the AI-created program in Python.
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
 7. Make a code in Python to visualize military spending of up to 4 countries from 2000 to 2022
-   with the following xlsx file. 4 lines of the graph is colored with black and white.
+   with the following xlsx file. 4 lines of the graph is colored with black and white. User is allowed to enter up to 4 countries from the terminal.
 
 https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2022.xlsx
 
