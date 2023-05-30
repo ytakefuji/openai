@@ -5,7 +5,7 @@ This is a tutorial on how to use generative AI systems such as Bing.com with Cha
 
 There are two types of dialog generative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
 
-This repository will introduce six types of dialog AI systems: ChatGPT-3 with/without browser, Bing.com via Edge or EdgeGPT without browser, and Google Bard with/without browser. EdgeGPT is based on ChatGPT-4: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
+This repository will introduce six types of dialog AI systems: ChatGPT-3 with/without browser, Bing.com via Edge with ChatGPT-4 or EdgeGPT without browser, and Google Bard with/without browser. EdgeGPT is based on ChatGPT-4: https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4
 
 The following three links are online interactive dialog AI systems via browser for free of charge:
 
