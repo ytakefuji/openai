@@ -1,7 +1,7 @@
 # How to use generative AI systems
 This is under review.
 
-This is a tutorial on how to use generative AI systems for Data Science at Musashino University in Japan.
+This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Bard for Data Science at Musashino University in Japan.
 
 There are two types of dialog generative AI systems: online interactive dialog AI via browser and terminal command AI in batch style. To use terminal command AI, their settings are required respectively.
 
