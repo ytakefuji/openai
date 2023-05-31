@@ -113,6 +113,8 @@ Hint: use geopandas.
 
 Hint: use geopandas and find a Japan prefecture map.
 
+11. show a code in Python how to upload and download a csv file on your account of Facebook, LinkedIn or Line for sharing it within group members.
+ 
 
 # Challenging EXAMPLES
 
