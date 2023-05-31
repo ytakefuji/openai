@@ -16,7 +16,7 @@ Bard via any browser: https://bard.google.com/
 Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
 
 <b>
-You need to practice interacting with the AI to accomplish the required tasks. Practice makes perfect.
+You need to practice interacting with the AI to accomplish the desired tasks. Practice makes perfect.
 </b>
 
 # Simple examples via browser
