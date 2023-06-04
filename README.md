@@ -135,6 +135,7 @@ I made a new pangram sentence with my program:
 
 flysch vend aka job tux pig mr qwz ==> QWZ: Mr. Flysch, aka tux, pig vend job. 
 </b>
+
 Bard's answer: There is no known image of Mr. Flysch, aka tuxedo with pig vend job. He is a fictional character from the webcomic "Pig Vend". The comic is about a man named Mr. Flysch who sells pigs in a tuxedo. 
 
 
