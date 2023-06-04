@@ -133,7 +133,7 @@ The quick brown fox jumps over lazy dog.flysch vend aka job tux pig mr qwz ==> M
 <b>
 I made a new pangram sentence with my program:
 
-flysch vend aka job tux pig mr qwz ==> Mr. Flysch, aka tux, pig vend QWZ job. 
+flysch vend aka job tux pig mr qwz ==> QWZ: Mr. Flysch, aka tux, pig vend job. 
 </b>
 
 2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
