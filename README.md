@@ -135,6 +135,8 @@ I made a new pangram sentence with my program:
 
 flysch vend aka job tux pig mr qwz ==> QWZ: Mr. Flysch, aka tux, pig vend job. 
 </b>
+Bard's answer: There is no known image of Mr. Flysch, aka tuxedo with pig vend job. He is a fictional character from the webcomic "Pig Vend". The comic is about a man named Mr. Flysch who sells pigs in a tuxedo. 
+
 
 2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
 
