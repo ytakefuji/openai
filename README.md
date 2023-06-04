@@ -128,7 +128,7 @@ Pack my box with five dozen liquor jugs.
 
 The five boxing wizards jump quickly.
 
-The quick brown fox jumps over lazy dog.flysch vend aka job tux pig mr qwz ==> Mr. 
+The quick brown fox jumps over lazy dog.
 
 
 
