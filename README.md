@@ -130,6 +130,17 @@ The five boxing wizards jump quickly.
 
 The quick brown fox jumps over lazy dog.
 
+<b>
+I finally made a pangram generator and created a new pangram.
+
+Fez, Jud know strych pilm, vag BQX.
+
+pilm=dust
+   
+to vag= to trail on the ground
+   
+BQX=Brooklyn Queens Connector
+</b>
 
 
 2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
