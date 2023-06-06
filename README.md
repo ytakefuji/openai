@@ -135,7 +135,7 @@ I finally made a pangram generator and created a new pangram.
 
 Fez, Jud know strych pilm, vag BQX.
 
-pilm=dust, to vag= to trail on the ground, BQX=Brooklyn Queens Connector
+strych pilm=dust at the attic, to vag = to trail on the ground, BQX=Brooklyn Queens Connector
 </b>
 
 
