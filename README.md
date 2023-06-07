@@ -117,7 +117,7 @@ Hint: use geopandas and find a Japan prefecture map.
 
 12. Find 6-letter lowercase words without "aeiou" and 5-letters lowercase words without "aeiou". A word should not contain a repeated letter.
 
-13. Use the following datasets on the global temperature and CO2. Calculate the correlation and discuss the global warming with human-induced CO2.
+13. Use the following datasets on the global temperature and CO2. Calculate the correlation and discuss the global warming with human-induced CO2.　Don't be preconceived in research
 
 https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt
 
