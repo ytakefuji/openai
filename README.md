@@ -123,6 +123,7 @@ https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
  
+<img src="https://github.com/ytakefuji/openai/blob/main/GlobalTemp.png" height=300 width=500>
 
 # Challenging EXAMPLES
 
