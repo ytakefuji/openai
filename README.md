@@ -133,6 +133,25 @@ https://github.com/ytakefuji/score-covid-19-policy/raw/main/country-pop.csv
 
 Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulative deaths by the population per million and sorting scores in ascending order.
 
+<pre>
+$ scorecovid
+Latest date: 2023-06-07
+             country  population  deaths  score
+United Arab Emirates     9441129    2349    248
+         New Zealand     5185288    2942    567
+               Japan   123951692   74694    602
+             Iceland      372899     260    697
+           Australia    26177413   21063    804
+              Canada    38454327   52645   1369
+              Israel     9038309   12540   1387
+             Germany    83369843  174412   2092
+              Sweden    10549347   24371   2310
+              France    64626628  163680   2532
+              Brazil   215313498  702907   3264
+       United States   338289857 1127152   3331
+      United Kingdom    67508936  226645   3357
+             Hungary     9967308   48789   4894
+</pre>
 
 # Challenging EXAMPLES
 
