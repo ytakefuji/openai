@@ -125,6 +125,15 @@ ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
  
 <img src="https://github.com/ytakefuji/openai/blob/main/GlobalTemp.png" height=300 width=500>
 
+14. Many COVID-19 datasets are not being updated anymore. However, WHO is now handling COVID-19 dataset:
+https://covid19.who.int/WHO-COVID-19-global-data.csv
+
+Use the population data at:
+https://github.com/ytakefuji/score-covid-19-policy/raw/main/country-pop.csv
+
+Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulated deaths by the population per million and sorting scores in ascending order.
+
+
 # Challenging EXAMPLES
 
 1. This is called a pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
