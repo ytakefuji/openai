@@ -125,6 +125,15 @@ ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
  
 <img src="https://github.com/ytakefuji/openai/blob/main/GlobalTemp.png" height=300 width=500>
 
+Hint:
+
+1. convert co2_mm_mlo.csv to co2.csv with three columns such as 'year', 'month' and 'mean'.
+
+2. Similarily, convert graph.txt to temp.csv with two columns such as 'year' and 'change.
+
+3. plot two graphs of co2 and temperature from 1940 to 1976.
+
+
 14. Many COVID-19 datasets are not being updated anymore. However, WHO is now handling COVID-19 dataset:
 https://covid19.who.int/WHO-COVID-19-global-data.csv
 
