@@ -131,7 +131,7 @@ Hint:
 
 2. Similarily, convert graph.txt to temp.csv with two columns such as 'year' and 'change.
 
-3. plot two graphs of co2 and temperature from 1940 to 1976.
+3. plot two graphs of co2 and temperature from 1940 to 1967.
 
 
 14. Many COVID-19 datasets are not being updated anymore. However, WHO is now handling COVID-19 dataset:
