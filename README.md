@@ -126,7 +126,7 @@ ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
 <img src="https://github.com/ytakefuji/openai/blob/main/GlobalTemp.png" height=300 width=500>
 
 
-<img src="https://github.com/ytakefuji/openai/blob/main/ocean_land.png" height=300 width500>
+<img src="https://github.com/ytakefuji/openai/blob/main/contradict.png" height=300 width500>
 
 Hint:
 
