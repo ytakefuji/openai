@@ -186,7 +186,9 @@ Fez, Jud know strych pilm, vag BQX.
 
 strych pilm=dust at the attic, to vag = to trail on the ground, BQX=Brooklyn Queens Connector
    
-TCK, Find sphex jow, glazy bum, QRV?
+TCK, Find sphex jow, glazy bum, U QRV?
+
+TCK=third culture kid, sphex=insect, jow= hit or strike, bum=buttocks, Y=you, QRV=are you ready?
    
 V? Pry jokish cwm, flag bed, Untz QX!
 
