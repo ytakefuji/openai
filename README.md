@@ -182,15 +182,15 @@ The quick brown fox jumps over lazy dog.
 <b>
 I finally made a pangram generator and created a new pangram.
 
-Fez, Jud know strych pilm, vag BQX.
+1. Fez, Jud know strych pilm, vag BQX.
 
 strych pilm=dust at the attic, to vag = to trail on the ground, BQX=Brooklyn Queens Connector
    
-TCK, Find sphex jow, glazy bum, U QRV?
+2. TCK, Find sphex jow, glazy bum, U QRV?
 
 TCK=third culture kid, sphex=insect, jow= hit or strike, bum=buttocks, Y=you, QRV=are you ready?
    
-V? Pry jokish cwm, flag bed, Untz QX!
+3. V? Pry jokish cwm, flag bed, Untz QX!
 
 V=to show sarcasm or humor, pry=inquire, cwm (chat with me), flag=relax, Untz=electric drum sound, QX=Roger
 </b>
