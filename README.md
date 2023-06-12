@@ -180,7 +180,7 @@ The five boxing wizards jump quickly.
 The quick brown fox jumps over lazy dog.
 
 <b>
-I finally made a pangram generator and created a new pangram.
+We finally made a pangram generator and created a new pangram.
 
 1. Fez, Jud know strych pilm, vag BQX.
 
