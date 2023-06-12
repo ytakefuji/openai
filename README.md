@@ -187,6 +187,10 @@ Fez, Jud know strych pilm, vag BQX.
 strych pilm=dust at the attic, to vag = to trail on the ground, BQX=Brooklyn Queens Connector
    
 TCK, Find sphex jow, glazy bum, QRV?
+   
+V? Pry jokish cwm, flag bed, Untz QX!
+
+V=to show sarcasm or humor, pry=inquire, cwm (chat with me), flag=relax, Untz=electric drum sound, QX=Roger
 </b>
 
 
