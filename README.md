@@ -106,6 +106,7 @@ The range of "Age" values is from 40 to 74. The range of "HbA1c" values is from 
 The following diagram is produced by the AI-created program in Python.
 
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
+
 <b>
 7. Make a code in Python to visualize military spending of up to 4 countries from 2000 to 2022
    with the following xlsx file. 4 lines of the graph is colored with black and white. User is allowed to enter up to 4 countries from the terminal.
@@ -120,14 +121,14 @@ Hint: explain to AI on how to extract the important data from the xlsx file to v
 </b>
 
 Hint: no hint.
+
 <b>
-   
 9. Draw a US-state map with red Oregon, blue California, green Florida, yellow New York and lightgray others.
 </b>
 
 Hint: use geopandas.
+
 <b>
-   
 10. Draw a Japan-prefecture map with green Hokkaido, blue Iwate, red Tokyo, yellow Kagoshima and lightgray others.
 </b>
 
@@ -136,8 +137,10 @@ Hint: use geopandas and find a Japan prefecture map.
 <b>
 11. show two codes in Python how to upload and download a csv file on your account of Facebook, LinkedIn or Line for sharing it within group members while the current SNS platforms do not allow users to upload/download a csv file. There is no menu to upload a csv file.
 
+   
 12. Find 6-letter lowercase words without "aeiou" and 5-letters lowercase words without "aeiou". A word should not contain a repeated letter.
 
+   
 13. Use the following datasets on the global temperature and CO2. Calculate the correlation and discuss the global warming with human-induced CO2.　Don't be preconceived in research
 <b/>
    
