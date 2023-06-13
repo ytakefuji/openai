@@ -139,6 +139,7 @@ Hint: use geopandas and find a Japan prefecture map.
 </b>
 
 Hint: no hint.
+
 <b>
 12. Find 6-letter lowercase words without "aeiou" and 5-letters lowercase words without "aeiou". A word should not contain a repeated letter.
 </b>
