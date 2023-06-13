@@ -119,16 +119,20 @@ Hint: explain to AI on how to extract the important data from the xlsx file to v
 8. Solve it using real numbers and complex numbers respectively: x - 2y = 0 and x^2 - y^2 = -3.
 </b>
 
+Hint: no hint.
 <b>
+   
 9. Draw a US-state map with red Oregon, blue California, green Florida, yellow New York and lightgray others.
 </b>
 
 Hint: use geopandas.
 <b>
+   
 10. Draw a Japan-prefecture map with green Hokkaido, blue Iwate, red Tokyo, yellow Kagoshima and lightgray others.
 </b>
 
 Hint: use geopandas and find a Japan prefecture map.
+
 <b>
 11. show two codes in Python how to upload and download a csv file on your account of Facebook, LinkedIn or Line for sharing it within group members while the current SNS platforms do not allow users to upload/download a csv file. There is no menu to upload a csv file.
 
