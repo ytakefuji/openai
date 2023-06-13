@@ -138,15 +138,20 @@ Hint: use geopandas and find a Japan prefecture map.
 11. show two codes in Python how to upload and download a csv file on your account of Facebook, LinkedIn or Line for sharing it within group members while the current SNS platforms do not allow users to upload/download a csv file. There is no menu to upload a csv file.
 </b>
 
+Hint: no hint.
 <b>
 12. Find 6-letter lowercase words without "aeiou" and 5-letters lowercase words without "aeiou". A word should not contain a repeated letter.
 </b>
 
+Hint: no hint.
+
 <b>
 13. Use the following datasets on the global temperature and CO2. Calculate the correlation and discuss the global warming with human-induced CO2.　Don't be preconceived in research
 </b>
-   
-https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt
+
+Use the following datasets.
+
+https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/aravg.mon.land_ocean.90S.90N.v5.1.0.202304.asc
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
  
