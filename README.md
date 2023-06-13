@@ -205,16 +205,12 @@ United Arab Emirates     9441129    2349    248
    
 Answer from AI should be:
 
-Sphinx of black quartz, judge my vow.
+Mr. Jock, TV quiz Ph. D., bags few lynx.
 
-Pack my box with five dozen liquor jugs.
-
-The five boxing wizards jump quickly.
-
-The quick brown fox jumps over lazy dog.
+Cwm fjord bank glyphs vext quiz.
 
 <b>
-We finally made a pangram generator and created a new pangram.
+We finally made a pangram generator and created new perfect pangrams.
 
 1. Fez, Jud know strych pilm, vag BQX.
 
