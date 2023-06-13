@@ -137,13 +137,14 @@ Hint:
 3. plot two graphs of co2 and temperature from 1940 to 1967.
 
 
-14. Many COVID-19 datasets are not being updated anymore. However, WHO is now handling COVID-19 dataset:
+
+14. Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulative deaths by the population per million and sorting scores in ascending order.
+
+Many COVID-19 datasets are not being updated anymore. However, WHO is now handling COVID-19 dataset:
 https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 Use the population data at:
 https://github.com/ytakefuji/score-covid-19-policy/raw/main/country-pop.csv
-
-Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulative deaths by the population per million and sorting scores in ascending order.
 
 <pre>
 $ scorecovid
