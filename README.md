@@ -244,7 +244,7 @@ Input	Output
 3. Write a code in Python to solve the 12-coin-3-weighing puzzle. In 12-coin-3-weighing puzzle, twelve coins are given where eleven of which are identical. If one is different, we don't know whether it is heavier or lighter than the others. The balance may be used three times to determine if there is a unique (counterfeit or fake) coin to isolate it and determine its weight relative to the others.
 </b>
    
-# Teriminal command AI with ChatGPT
+# Terminal command AI with ChatGPT
 
 trans.py with ChatGPT-3 is an example of translation from English to French and Japanese.
 The text message "Translate this into 1. French and 2. Japanese:\n\nWhat rooms do you have available?\n." is fed to openai to generate the response.
