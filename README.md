@@ -166,7 +166,7 @@ Hint:
 
 2. Similarily, convert graph.txt to temp.csv with two columns such as 'year' and 'change.
 
-3. plot two graphs of co2 and temperature from 1940 to 1967.
+3. plot a graph of two lines of co2 and temperature from 1940 to 1967.
 
 <b>
 14. Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulative deaths by the population per million and sorting scores in ascending order.
