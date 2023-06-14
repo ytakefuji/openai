@@ -200,7 +200,7 @@ United Arab Emirates     9441129    2349    248
 
 # Challenging EXAMPLES
 <b>
-1. This is called a pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
+1. This is called a perfect pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
 </b>
    
 Answer from AI should be:
