@@ -164,7 +164,7 @@ Hint:
 
 1. convert co2_mm_mlo.csv to co2.csv with three columns such as 'year', 'month' and 'mean'.
 
-2. Similarily, convert graph.txt to temp.csv with two columns such as 'year' and 'change.
+2. Similarily, convert aravg.mon.land_ocean.90S.90N.v5.1.0.202304.asc to temp.csv with three columns such as 'year', 'month' and 'change'.
 
 3. plot a graph of two lines of co2 and temperature from 1940 to 1967.
 
