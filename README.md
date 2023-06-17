@@ -202,7 +202,6 @@ United Arab Emirates     9441129    2349    248
 15. Draw a graph based on Bayesian theory to calculate the probability of detecting someone is positive. 
 </b>
 
-Assume D and R: D=event that individual has disease, R=event of a positive result.
 Assume that the probability of individual with disease is 0.065 and non-infected population probability is 0.935. 
 
 Assume the true positive rate of testing is 0.991 and the false positive rate is 0.0005. 
