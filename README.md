@@ -209,13 +209,14 @@ Formulate the probability of detecting someone is positive: P(x,y) where x and y
 
 Hint: no hint
 
+
 <b>
 16. Use rows.csv: https://data.cdc.gov/api/views/3rge-nu2a/rows.csv and 
 show the effectiveness of vaccination with symptoms by age groups.
 </b>
 
-Hint: no hint
 
+Hint: no hint
 
 
 # Challenging EXAMPLES
