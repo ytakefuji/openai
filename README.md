@@ -206,7 +206,7 @@ Assume D and R: D=event that individual has disease, R=event of a positive resul
 Assume that the probability of individual with disease is 0.065 and non-infected population probability is 0.935. 
 
 Assume the true positive rate of testing is 0.991 and the false positive rate is 0.0005. 
-Formulated the probability of detecting someone is positive: P(x,y) where x and y are the false positive rate and the true positive rate respectively.
+Formulate the probability of detecting someone is positive: P(x,y) where x and y are the false positive rate and the true positive rate respectively.
 
 
 # Challenging EXAMPLES
