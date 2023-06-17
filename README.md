@@ -198,6 +198,17 @@ United Arab Emirates     9441129    2349    248
              Hungary     9967308   48789   4894
 </pre>
 
+<b>
+15. Draw a graph based on Bayesian theory to calculate the probability of detecting someone is positive. 
+</b>
+
+Assume D and R: D=event that individual has disease, R=event of a positive result.
+Assume that the probability of individual with disease is 0.065 and non-infected population probability is 0.935. 
+
+Assume the true positive rate of testing is 0.991 and the false positive rate is 0.0005. 
+Formulated the probability of detecting someone is positive: P(x,y) where x and y are the false positive rate and the true positive rate respectively.
+
+
 # Challenging EXAMPLES
 <b>
 1. This is called a perfect pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
