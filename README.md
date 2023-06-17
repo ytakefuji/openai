@@ -207,6 +207,16 @@ Assume that the probability of individual with disease is 0.065 and non-infected
 Assume the true positive rate of testing is 0.991 and the false positive rate is 0.0005. 
 Formulate the probability of detecting someone is positive: P(x,y) where x and y are the false positive rate and the true positive rate respectively.
 
+Hint: no hint
+
+<b>
+16. Use rows.csv: https://data.cdc.gov/api/views/3rge-nu2a/rows.csv and 
+show the effectiveness of vaccination with symptoms by age groups.
+</b>
+
+Hint: no hint
+
+
 
 # Challenging EXAMPLES
 <b>
