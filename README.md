@@ -1,4 +1,8 @@
 # How to use generative AI systems
+
+A brief tutorial on generative AI for novice users. British Dental Journal. (2023).
+
+
 This is under review.
 
 This is a tutorial on how to use generative AI systems such as Bing.com with ChatGPT-4 and Bard for Data Science at Musashino University in Japan.
