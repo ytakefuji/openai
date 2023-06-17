@@ -215,7 +215,6 @@ Hint: no hint
 show the effectiveness of vaccination with symptoms by age groups.
 </b>
 
-
 Hint: no hint
 
 
