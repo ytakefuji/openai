@@ -136,7 +136,7 @@ Hint: use geopandas.
 10. Draw a Japan-prefecture map with green Hokkaido, blue Iwate, red Tokyo, yellow Kagoshima and lightgray others.
 </b>
 
-<img src='japan.png' width=400 height=300>
+<img src='japan.png' width=576 height=432>
 
 Hint: use geopandas and find a Japan prefecture map.
 
