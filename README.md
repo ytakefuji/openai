@@ -174,9 +174,11 @@ Hint:
 
 1. convert co2_mm_mlo.csv to co2.csv with three columns such as 'year', 'month' and 'mean'.
 
-2. Similarily, convert aravg.mon.land_ocean.90S.90N.v5.1.0.202304.asc to temp.csv with three columns such as 'year', 'month' and 'change'.
+2. Cope with monthly updated file-name changes to download the correct latest data.
 
-3. plot a graph of two lines of co2 and temperature from 1940 to 1967.
+3. Similarily, convert aravg.mon.land_ocean.90S.90N.v5.1.0.202305.asc to temp.csv with three columns such as 'year', 'month' and 'change'.
+
+4. plot a graph of two lines of co2 and temperature from 1940 to 1967.
 
 <b>
 14. Make a scorecovid application for calculating scores of selected countires with dividing the number of cumulative deaths by the population per million and sorting scores in ascending order.
