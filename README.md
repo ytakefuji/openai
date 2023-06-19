@@ -158,6 +158,10 @@ Hint: no hint.
 
 Use the following site which contains the latest data with every month updated.
 
+https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/
+
+The following link is lost.
+
 https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/aravg.mon.land_ocean.90S.90N.v5.1.0.202304.asc
 
 https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/aravg.mon.land_ocean.90S.90N.v5.1.0.202305.asc
