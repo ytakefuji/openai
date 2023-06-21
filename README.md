@@ -461,3 +461,5 @@ A. Understanding text in English with ChatGPT-4 is 85.5% while one in Japanese i
 B. You need to choose right words and phrases in dialog with AI (ChatGPT-3, bing.com with ChatGPT-4 and Bard). Add extra words and/or phrases in your dialog.
 
 C. Multiple conversations may be necessary.
+
+https://www.nature.com/articles/s41433-023-02563-3/figures/1
