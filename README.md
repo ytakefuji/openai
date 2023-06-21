@@ -463,3 +463,5 @@ B. You need to choose right words and phrases in dialog with AI (ChatGPT-3, bing
 C. Multiple conversations may be necessary.
 
 https://www.nature.com/articles/s41433-023-02563-3/figures/1
+
+<img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41433-023-02563-3/MediaObjects/41433_2023_2563_Fig1_HTML.png' width=400 height=400>
