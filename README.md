@@ -1,6 +1,6 @@
 # How to use generative AI systems
 
-A brief tutorial on generative AI for novice users. British Dental Journal. (2023).
+Takefuji, Y. A brief tutorial on generative AI. Br Dent J 234, 845 (2023). https://doi.org/10.1038/s41415-023-6041-0
 
 
 This is under review.
