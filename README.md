@@ -1,4 +1,4 @@
-# How to use generative AI systems
+# How to use generative AI systems 
 
 Takefuji, Y. A brief tutorial on generative AI. Br Dent J 234, 845 (2023). https://doi.org/10.1038/s41415-023-6041-0
 
