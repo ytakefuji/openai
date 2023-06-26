@@ -66,7 +66,7 @@ I’m sorry, but I couldn’t find any specific information about publications b
 </pre>
 <b>
 4. Query to AI: show a list of publications by yoshiyasu takefuji in 2023 
-   with google query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
+   with search query command of "yoshiyasu takefuji site:nih.gov after:2023-1-1"
 </b>
 <pre>
 Answer from AI:
