@@ -253,7 +253,7 @@ C,3
 C,5
 </pre>
 
-<img src=plot.png width=320 height=240>
+<img src="https://github.com/ytakefuji/openai/blob/main/plot.png?raw=true" width=320 height=240>
 
 
 # Challenging EXAMPLES
