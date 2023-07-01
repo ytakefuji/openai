@@ -235,6 +235,26 @@ show the effectiveness of vaccination with symptoms by age groups.
 
 Hint: no hint
 
+<b>
+17. draw a graph of the following with data.csv.
+</b>
+
+<pre>
+data.csv
+factor,value
+A,5
+A,7
+A,8
+B,2
+B,4
+B,6
+C,1
+C,3
+C,5
+</pre>
+
+<img src=plot.png width=320 height=240>
+
 
 # Challenging EXAMPLES
 <b>
