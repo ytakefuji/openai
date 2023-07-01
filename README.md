@@ -240,7 +240,7 @@ Hint: no hint
 </b>
 
 <pre>
-data.csv
+$ cat data.csv
 factor,value
 A,5
 A,7
@@ -255,6 +255,7 @@ C,5
 
 <img src="https://github.com/ytakefuji/openai/blob/main/plot.png?raw=true" width=320 height=240>
 
+Hint: Each boxplot in a graphical indicates representation of the distribution of a dataset with the median, quartiles, and outliers of the data.
 
 # Challenging EXAMPLES
 <b>
