@@ -263,7 +263,7 @@ Hint: Each boxplot in a graphical indicates representation of the distribution o
 
 # Challenging EXAMPLES
 <b>
-1. This is called a perfect pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
+1.***** This is called a perfect pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
 </b>
    
 Answer from AI should be:
@@ -289,7 +289,7 @@ V=to show sarcasm or humor, pry=inquire, cwm (chat with me), flag=relax, Untz=el
 </b>
 
 <b>
-2. Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
+2.***** Design a 3-input 3-output combination logic circuit that negates the 3 input signals. Any number of AND and OR gates can be used, but only two NOT gates are allowed.
 </b>
    
 <pre>
@@ -304,7 +304,7 @@ Input	Output
 111	000
 </pre>
 <b>
-3. Write a code in Python to solve the 12-coin-3-weighing puzzle. In 12-coin-3-weighing puzzle, twelve coins are given where eleven of which are identical. If one is different, we don't know whether it is heavier or lighter than the others. The balance may be used three times to determine if there is a unique (counterfeit or fake) coin to isolate it and determine its weight relative to the others.
+3.**** Write a code in Python to solve the 12-coin-3-weighing puzzle. In 12-coin-3-weighing puzzle, twelve coins are given where eleven of which are identical. If one is different, we don't know whether it is heavier or lighter than the others. The balance may be used three times to determine if there is a unique (counterfeit or fake) coin to isolate it and determine its weight relative to the others.
 </b>
    
 # Terminal command AI with ChatGPT
