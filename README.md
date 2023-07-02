@@ -25,7 +25,7 @@ You need to practice interacting with the AI to accomplish the desired tasks. Pr
 
 # Simple examples via browser
 
-The difficulty level is indicated by the number of asterisks. The more asterisks, the higher the difficulty. 
+The difficulty level is indicated by the number of asterisks (*). The more asterisks, the higher the difficulty. 
 
 <b>
 1. Query to AI: show a code in Python to display a graph with data.csv 
