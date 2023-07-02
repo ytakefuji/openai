@@ -261,6 +261,39 @@ C,5
 
 Hint: Each boxplot in a graphical indicates representation of the distribution of a dataset with the median, quartiles, and outliers of the data.
 
+<b>
+18.** Draw a graph of the following csv file without modifying contents.
+</b>
+
+use medicare.csv
+
+The result should be shown.
+
+<img src='medicare.png' width=320 height=240>
+
+<pre>
+$ cat medicare.csv
+Year,PERM Cycles Included,Estimated Improper Payments (in billions),Overall Rate,FFS Rate,Managed Care Rate,Eligibility Rate
+2010,Cycle 2 – FY 2007,$22.50 ,9.40%,4.40%,1.00%,5.90%
+,,,,,,
+,Cycle 3 – FY 2008,,,,,
+,,,,,,
+,Cycle 1 – FY 2009,,,,,
+2011,Cycle 3 – FY 2008,$21.90 ,8.10%,2.70%,0.30%,6.00%
+,,,,,,
+,Cycle 1 – FY 2009,,,,,
+,,,,,,
+,Cycle 2 – FY 2010,,,,,
+2012,Cycle 1 – FY 2009,$19.20 ,7.10%,3.00%,0.30%,4.90%
+...
+2022,Cycle 2 - RY 2020,$80.57 ,15.62%,10.42%,0.03%,11.89%
+,,,,,,
+,Cycle 3 - RY 2021,,,,,
+,,,,,,
+,Cycle 1 - RY 2022,,,,,
+</pre>
+
+
 # Challenging EXAMPLES
 <b>
 1.***** This is called a perfect pangram generator. Use all 26 lowercase letters of the alphabet only once to create a meaningful sentence. This is a difficult problem!
