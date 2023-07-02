@@ -280,17 +280,6 @@ Year,PERM Cycles Included,Estimated Improper Payments (in billions),Overall Rate
 ,,,,,,
 ,Cycle 1 – FY 2009,,,,,
 2011,Cycle 3 – FY 2008,$21.90 ,8.10%,2.70%,0.30%,6.00%
-,,,,,,
-,Cycle 1 – FY 2009,,,,,
-,,,,,,
-,Cycle 2 – FY 2010,,,,,
-2012,Cycle 1 – FY 2009,$19.20 ,7.10%,3.00%,0.30%,4.90%
-...
-2022,Cycle 2 - RY 2020,$80.57 ,15.62%,10.42%,0.03%,11.89%
-,,,,,,
-,Cycle 3 - RY 2021,,,,,
-,,,,,,
-,Cycle 1 - RY 2022,,,,,
 </pre>
 
 
