@@ -262,7 +262,7 @@ C,5
 Hint: Each boxplot in a graphical indicates representation of the distribution of a dataset with the median, quartiles, and outliers of the data.
 
 <b>
-18.* Draw a graph of the following csv file without modifying contents.
+18.* Draw a graph of the following csv file without modifying csv contents.
 </b>
 
 use [medicare.csv](https://github.com/ytakefuji/openai/blob/main/medicare.csv)
