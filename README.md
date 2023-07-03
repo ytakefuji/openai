@@ -114,10 +114,14 @@ The following diagram is produced by the AI-created program in Python.
 <img src="https://github.com/ytakefuji/openai/blob/main/hbA1c_vs_age.png" height=240 width=320>
 
 <b>
-7.0* Make a code in Python to draw a graph of 4 country lines from 2000 to 2022 with SIPRI-Milex-data-1949-2022.csv
+7.0* Show a full code in Python to draw a graph of 4 country lines from 2000 to 2022 with SIPRI-Milex-data-1949-2022.csv
 </b>
 
+Hint: Identify 'Country' column name.
 
+https://github.com/ytakefuji/openai/blob/main/SIPRI-Milex-data-1949-2022.csv
+
+<b>
 7.1** Make a code in Python to visualize military spending of up to 4 countries from 2000 to 2022
    with the following xlsx file. 4 lines of the graph is colored with black and white. User is allowed to enter up to 4 countries from the terminal.
 </b>
