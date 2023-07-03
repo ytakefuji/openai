@@ -219,7 +219,7 @@ United Arab Emirates     9441129    2349    248
 </pre>
 
 <b>
-15.** Draw a graph based on Bayesian theory to calculate the probability of detecting someone is positive. 
+15.*** Draw a graph based on Bayesian theory to calculate the probability of detecting someone is positive. 
 </b>
 
 Assume that the probability of individual with disease is 0.065 and non-infected population probability is 0.935. 
