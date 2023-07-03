@@ -126,6 +126,7 @@ https://github.com/ytakefuji/openai/blob/main/SIPRI-Milex-data-1949-2022.csv
    with the following xlsx file. 4 lines of the graph is colored with black and white. User is allowed to enter up to 4 countries from the terminal.
 </b>
 
+
 https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2022.xlsx
 
 Hint: explain to AI on how to extract the important data from the xlsx file to visualize time-series data of up to 4 countries.
