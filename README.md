@@ -299,6 +299,7 @@ https://tools.bcsc-scc.org/dataexplorer/
 
 https://www.bcsc-research.org/statistics/diagnostic-performance-benchmarks/diagnostic-mammography-sensitivity-specificity
 
+Hint: pick 'Exam' for "Count by" and 'mammogram' for "Screening mammography performance and cancer rates".
 
 
 
