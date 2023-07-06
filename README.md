@@ -291,6 +291,16 @@ Year,PERM Cycles Included,Estimated Improper Payments (in billions),Overall Rate
 2011,Cycle 3 – FY 2008,$21.90 ,8.10%,2.70%,0.30%,6.00%
 </pre>
 
+<b>
+19.* Breast cancer screening between 1994-2009 and 2007-2013. Use two sites and compare false-positive and accuracy.
+</b>
+
+https://tools.bcsc-scc.org/dataexplorer/
+
+https://www.bcsc-research.org/statistics/diagnostic-performance-benchmarks/diagnostic-mammography-sensitivity-specificity
+
+
+
 
 # Challenging EXAMPLES
 <b>
