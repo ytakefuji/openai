@@ -292,7 +292,8 @@ Year,PERM Cycles Included,Estimated Improper Payments (in billions),Overall Rate
 </pre>
 
 <b>
-19.* Breast cancer screening between 1994-2009 and 2007-2013. Use two sites and compare false-positive and accuracy.
+19.** Breast cancer screening between 1994-2009 and 2007-2013. 
+   Use two sites and discuss false-positive and accuracy for comparison.
 </b>
 
 https://tools.bcsc-scc.org/dataexplorer/
@@ -300,6 +301,7 @@ https://tools.bcsc-scc.org/dataexplorer/
 https://www.bcsc-research.org/statistics/diagnostic-performance-benchmarks/diagnostic-mammography-sensitivity-specificity
 
 Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "Screening mammography performance and cancer rates" for 1994-2009. 
+Calculate false-positive and accuracy for 2007-2013.
 
 
 
