@@ -306,6 +306,7 @@ Calculate false-positive and accuracy for 2007-2013.
 
 <b>
 20.* Predict cross-validation accuracy of binary classification of 'Group' in the dataset.
+   And show top-5 feature importances.
 </b>
 
 https://dfzljdn9uc3pi.cloudfront.net/2022/14078/1/raw_data.csv
