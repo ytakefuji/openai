@@ -304,6 +304,13 @@ Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "S
 Calculate false-positive and accuracy for 2007-2013.
 
 
+<b>
+20.* Predict cross-validation accuracy of binary classification of 'Group' in the dataset.
+</b>
+
+https://dfzljdn9uc3pi.cloudfront.net/2022/14078/1/raw_data.csv
+
+
 
 # Challenging EXAMPLES
 <b>
