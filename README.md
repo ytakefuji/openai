@@ -312,7 +312,7 @@ Calculate false-positive and accuracy for 2007-2013.
 https://dfzljdn9uc3pi.cloudfront.net/2022/14078/1/raw_data.csv
 
 <b>
-21.* What is the probability that she actually has breast cancer with positive mammograms? 
+21.* What is the probability that she actually has breast cancer with positive mammogram? 
 </b>
 
 1% of women at age forty who participate in routine screening have breast cancer. 80% of women with breast cancer will get positive mammograms. 9.6% of women without breast cancer will also get positive mammograms. A woman in this age group had a positive mammography in a routine screening. 
