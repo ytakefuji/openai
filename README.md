@@ -1,4 +1,4 @@
-# How to use generative AI systems 
+![image](https://github.com/ytakefuji/openai/assets/12127408/ecd3f835-0e6e-4b6c-9e67-77221dcbcc56)# How to use generative AI systems 
 
 Takefuji, Y. A brief tutorial on generative AI. Br Dent J 234, 845 (2023). https://doi.org/10.1038/s41415-023-6041-0
 
@@ -311,6 +311,13 @@ Calculate false-positive and accuracy for 2007-2013.
 
 https://dfzljdn9uc3pi.cloudfront.net/2022/14078/1/raw_data.csv
 
+<b>
+21.* What is the probability that she actually has breast cancer with positive mammograms? 
+</b>
+
+1% of women at age forty who participate in routine screening have breast cancer. 80% of women with breast cancer will get positive mammograms. 9.6% of women without breast cancer will also get positive mammograms. A woman in this age group had a positive mammography in a routine screening. 
+
+Hint: Bayesian theory
 
 
 # Challenging EXAMPLES
