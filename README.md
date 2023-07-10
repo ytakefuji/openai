@@ -23,7 +23,7 @@ Bing.com via Edge browser using ChatGPT-4: https://bing.com/chat
 You need to practice interacting with the AI to accomplish the desired tasks. Practice makes perfect.
 </b>
 
-# Simple examples via browser
+# Examples via browser
 
 The difficulty level is indicated by the number of asterisks (*). The more asterisks, the higher the difficulty. 
 
